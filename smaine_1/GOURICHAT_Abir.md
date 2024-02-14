@@ -8,6 +8,8 @@
 ## **Intérêts dans le multimedia**
 
 Je suis rentrer dans le domaine multimedia,car jai toujours aimer l'art et le video editing. Sa ma toujours inspirer de voir
-lesjeux video
+les creations des autre au niveau de la programmation ou meme dans l'animation 3D.C'est pourquoi jai trouver que se programme serait interessant.
+
+
 
 
