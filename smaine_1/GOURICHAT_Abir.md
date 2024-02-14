@@ -12,4 +12,6 @@ les creations des autre au niveau de la programmation ou meme dans l'animation 3
 
 
 
+## Ce qui me plait dans l'introduction à la muséologie en TIM
 
+De me permettre d'experiencer de nouvelle chose au niveau technologique et aussi de decouvrire et d'élargire me connaissance sur plusieurs project.
