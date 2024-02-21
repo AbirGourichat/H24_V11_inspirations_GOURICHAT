@@ -15,6 +15,8 @@ C'est une grande expérience, de style psychédélique, où tu peux voir des vid
 
 ![34436f03-2ca0-4562-99a4-f33a05e6e160](https://github.com/AbirGourichat/H24_V11_inspirations_GOURICHAT/assets/143745199/0cb2aac6-c2aa-4a39-aa64-6c1389b011c5)
 
+Voila pour la presentation de l'oeuvre!
+
 
 MISE EN ESPACE
 
@@ -36,11 +38,17 @@ Au milieux de la salle de cube de pierre avec un poteau ou tu pouvait t'assoire.
 
 La deuxieme salle etait d'un sol tapisser qui etait agreable a marcher dessus comparer au sol de la salle precedent. Dans cela 7 écrans disposer au milieu de la salle projectant chacune une video qui semble de differente époque.D'un coter de la salle se trouvait des bancs superposer donnant une vue plus elever au viewer.
 
+
 ÉLEMENT NECESSAIRE
 
 ![8de010a5-2edb-4603-884d-c2ab572c25cb](https://github.com/AbirGourichat/H24_V11_inspirations_GOURICHAT/assets/143745199/8999bb5c-2cd6-41ae-975e-29bf18dbde6a)
 
 Pour permettre une experience imersive, il y a plusieurs haut-parleur au plafond et aussi lumiere qui change de couleurs. L'utilisation de projecteur et aussi necessaire pour permettre la projection des 7 video sur chacune des tableaux vide. Tout ca et controler grace a un centre de controle qui et cacher dans un des bancs qui se retrouve a etre remplie de fils. 
+
+
+EXPERIENCE VÉCUE
+
+
 
 
 
