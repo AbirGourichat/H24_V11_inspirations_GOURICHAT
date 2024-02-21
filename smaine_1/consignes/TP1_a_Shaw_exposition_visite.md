@@ -40,7 +40,7 @@ La deuxieme salle etait d'un sol tapisser qui etait agreable a marcher dessus co
 
 ![8de010a5-2edb-4603-884d-c2ab572c25cb](https://github.com/AbirGourichat/H24_V11_inspirations_GOURICHAT/assets/143745199/8999bb5c-2cd6-41ae-975e-29bf18dbde6a)
 
-
+Pour permettre une experience imersive, il y a plusieurs haut-parleur au plafond et aussi lumiere qui change de couleurs. L'utilisation de projecteur et aussi necessaire pour permettre la projection des 7 video sur chacune des tableaux vide. Tout ca et controler grace a un centre de controle qui et cacher dans un des bancs qui se retrouve a etre remplie de fils. 
 
 
 
